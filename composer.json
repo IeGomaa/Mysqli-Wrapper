@@ -1,0 +1,20 @@
+{
+    "name": "ie_gomaa/mysqli-database-wrapper",
+    "description": "Mysqli Database Wrapper",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ibrahim\\MysqliDatabaseWrapper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ibrahim",
+            "email": "ibrahimesam120000104@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
